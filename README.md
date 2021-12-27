@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shriyasehgal
-- 👀 I’m interested in learning how machines can mimic our cognitive functions to learn and make decisions like we humans do.  
+- 👀 I’m interested in learning how machines can mimic our cognitive functions to learn and make decisions even better than we humans do.  
 - 🌱 I’m currently pursuing my masters in Computer Science with specialisation in Datascience.
 - 💞️ I’m looking to collaborate on interdisciplinary research projects related to Machine Learning.
 - 📫 How to reach me ...
